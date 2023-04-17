@@ -35,7 +35,7 @@ how to get inside a running container
 	docker exec -it <container id> bash 
 
 how to come out of a container
-	ctrl pq ( it is mandatory to use this command always )
+	ctrl pq ( it is mandatory to use this command always ) "read escape sequence"
 	
 how to access the applications running inside the container from external world ( browser )
 	
